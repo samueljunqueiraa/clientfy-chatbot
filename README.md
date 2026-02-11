@@ -1,7 +1,8 @@
 # 🤖 ClientFy AI - Inteligência de Dados via Chatbot
 O ClientFy AI é um projeto complementar desenvolvido para transformar os dados exportados da plataforma ClientFy em insights acionáveis através de linguagem natural. Utilizando processamento de dados e inteligência artificial, o chatbot permite que gestores façam perguntas complexas sobre sua base de clientes sem a necessidade de gerar relatórios manuais.
 
-<p align="center"> ![1751370600286](https://github.com/user-attachments/assets/8e9375ad-72a2-4d22-838b-872a88b2de61) </p>
+
+![1751370600286](https://github.com/user-attachments/assets/cfc8fbc9-6eeb-4121-9776-6b4651c625c6)
 
 ## 💡 O Conceito
 O sistema principal (ClientFy) exporta a base de leads e faturamentos em formato CSV. Este chatbot consome esses arquivos, processa as informações e responde perguntas como:
